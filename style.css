@@ -1,0 +1,20 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  border: 5px solid yellow;
+  max-width: 500px;
+  clear: both;
+  margin: 0 auto;
+  font-family: 'Press Start 2P', cursive;
+  padding: 1rem;
+}
+.pokemon-picture{
+  display: flex;
+  width: 100%;
+  background: url(./download.jfif) center no-repeat;
+  background-size: cover;
+}
+
+.pokemon-picture img{
+  margin: 0 auto;
+}
