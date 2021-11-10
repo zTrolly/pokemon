@@ -13,8 +13,13 @@
   width: 100%;
   background: url(./download.jfif) center no-repeat;
   background-size: cover;
+  border: 3px solid black;
 }
 
 .pokemon-picture img{
   margin: 0 auto;
+}
+
+.card-electric{
+  background-color: yellow;
 }
